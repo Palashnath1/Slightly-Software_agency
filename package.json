@@ -1,0 +1,9 @@
+{
+  "name": "software-agency-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix slightly-agency run dev",
+    "build": "npm --prefix slightly-agency run build",
+    "preview": "npm --prefix slightly-agency run preview"
+  }
+}
